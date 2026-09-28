@@ -1,9 +1,4 @@
-If you're asking **what to actually put in the `README.md` for your portfolio GitHub repository**, use the version below.
-
-You can **copy and paste this directly into `README.md`**:
-
-````markdown
-# SIDDHESH CHOPADE — Personal Portfolio
+#SIDDHESH CHOPADE — Personal Portfolio
 
 A responsive personal portfolio website showcasing my skills, projects, internships, certifications, education, and professional experience as a Software Engineer / Web Developer.
 
@@ -122,16 +117,3 @@ This project is available for personal and educational purposes.
 
 ```
 
-### What you need to change
-
-There are only **4 things** you need to replace:
-
-1. `YOUR-USERNAME` → your GitHub username
-2. `YOUR-REPOSITORY` → your portfolio repository name
-3. `YOUR-LINKEDIN-LINK` → your LinkedIn profile
-4. `YOUR-GITHUB-LINK` → your GitHub profile
-
-**Everything else can stay as it is.**
-
-If you're currently on GitHub's **"Add README"** screen, paste this entire content into the README box and then click **Commit changes**.
-```
